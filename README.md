@@ -1,2 +1,2 @@
 # Lab01-Subrina
-GitHub Exercise
+This is the first CSI333 lab!
