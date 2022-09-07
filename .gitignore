@@ -1,5 +1,6 @@
 / 
 |
+#ignore files with .bin
 + .gitignore
 + 1.bin
 + answers
@@ -11,3 +12,8 @@
                 | 
                 + 3.txt
                 + 3.bin
+$ cat.gitignore
+# ignore files with .log
+$ *.log
+# or ignore files with directory named temp
+temp/
